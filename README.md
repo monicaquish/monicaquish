@@ -4,7 +4,7 @@
        width="250"/>
 </p>
 
-<h1 align="center">Hola, soy Mónica Quiroz Santander 👋🏽</h1>
+<h1 align="center">Hola, soy Mónica  👋🏽</h1>
 
 <p align="center">
   <strong>Ing. en Software y Redes</strong><br/>
