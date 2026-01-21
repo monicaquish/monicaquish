@@ -7,8 +7,9 @@
 <h1 align="center">Hola, soy Mónica Quiroz Santander 👋🏽</h1>
 
 <p align="center">
-  <strong>Ingeniera en Software y Redes</strong><br/>
-  <strong>Desarrollo Front End</strong>
+  <strong>Ing. en Software y Redes</strong><br/>
+  <strong>Desarrollo Front End</strong><br/>
+  <strong>Soporte Técnico</strong>
 </p>
 
 ---
@@ -19,8 +20,7 @@
 
 ### 👩🏽‍💻 Sobre mí
 
-Hola, soy **Mónica Quiroz Santander**, Ingeniera en Software y Redes con enfoque en  
-**Desarrollo Front End**.
+Hola, soy Mónica Quiroz Santander, Ingeniera en Software y Redes con enfoque en Desarrollo Front End.
 
 Experiencia en soporte técnico, análisis de incidencias y desarrollo web, fortaleciendo habilidades de resolución de problemas, pensamiento lógico y trabajo colaborativo. 
 Comprometida con el aprendizaje continuo y el desarrollo de aplicaciones web, eficientes y accesibles.
@@ -35,7 +35,7 @@ Comprometida con el aprendizaje continuo y el desarrollo de aplicaciones web, ef
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
 
-    </td>
+    
   </tr>
 </table>
 
@@ -44,3 +44,5 @@ Comprometida con el aprendizaje continuo y el desarrollo de aplicaciones web, ef
 ### 📫 Contacto
 - 💼 LinkedIn: https://www.linkedin.com/in/mónica-q-santander-1455761b9/
 - 📧 Email: monica_qs98@outlook.com
+
+✨ *Gracias por visitar mi perfil*
