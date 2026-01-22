@@ -27,9 +27,10 @@ Comprometida con el aprendizaje continuo y el desarrollo de aplicaciones web, ef
 
 ### 🚀 Áreas de interés
 - Desarrollo Front End  
-- Mejora continua y aprendizaje constante  
-- Resolución de problemas  
-- Trabajo colaborativo  
+- Creación de interfaces web accesibles 
+- Consumo e integración de APIs REST
+- Buenas prácticas de código y mejora continua
+- Aprendizaje constante de tecnologías Front End 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
