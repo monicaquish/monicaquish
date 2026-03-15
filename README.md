@@ -20,21 +20,15 @@
 
 ### 👩🏽‍💻 Sobre mí
 
-Hola, soy Mónica Quiroz Santander, Ingeniera en Software y Redes con enfoque en Desarrollo Front End.
+Hola, soy Mónica Quiroz Santander, Ingeniera en Software y Redes con enfoque en Desarrollo Full Stack.
 
-Experiencia en soporte técnico, análisis de incidencias y desarrollo web, fortaleciendo habilidades de resolución de problemas, pensamiento lógico y trabajo colaborativo. 
-Comprometida con el aprendizaje continuo y el desarrollo de aplicaciones web, eficientes y accesibles.
+Trabajo con C#, .NET, APIs REST y SQL en backend, y con HTML, CSS y JavaScript en frontend, desarrollando interfaces que consumen servicios y se integran con APIs.
 
-### 🚀 Áreas de interés
-- Desarrollo Front End  
-- Creación de interfaces web accesibles 
-- Consumo e integración de APIs REST
-- Buenas prácticas de código y mejora continua
-- Aprendizaje constante de tecnologías Front End 
+Mi experiencia en soporte técnico me ha dado una visión integral de los sistemas, enfocándome en el rendimiento, la estabilidad y la experiencia del usuario. Actualmente sigo fortaleciendo mis habilidades en desarrollo y buenas prácticas de seguridad.
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+💻 Tech Stack: C#, .NET, SQL, HTML, CSS, JavaScript  
+🔐 Interests: Secure development, backend architecture, APIs  
+📚 Currently learning: Advanced .NET and secure authentication
 
     
   </tr>
