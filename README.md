@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>Ing. en Software y Redes</strong><br/>
-  <strong>Desarrollo Front End</strong><br/>
+  <strong>Desarrollo Full Stack</strong><br/>
   <strong>Soporte Técnico</strong>
 </p>
 
@@ -20,7 +20,7 @@
 
 ### 👩🏽‍💻 Sobre mí
 
-Hola, soy Mónica Quiroz Santander, Ingeniera en Software y Redes con enfoque en Desarrollo Full Stack.
+Hola, soy Ingeniera en Software y Redes con enfoque en Desarrollo Full Stack.
 
 Trabajo con C#, .NET, APIs REST y SQL en backend, y con HTML, CSS y JavaScript en frontend, desarrollando interfaces que consumen servicios y se integran con APIs.
 
