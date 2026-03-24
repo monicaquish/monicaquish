@@ -20,15 +20,15 @@
 
 ### 👩🏽‍💻 Sobre mí
 
-Hola, soy Ingeniera en Software y Redes con enfoque en Desarrollo Full Stack.
+Hola, soy Ingeniera en Software y Redes especializada en desarrollo Full Stack.
 
-Trabajo con C#, .NET, APIs REST y SQL en backend, y con HTML, CSS y JavaScript en frontend, desarrollando interfaces que consumen servicios y se integran con APIs.
+Cuento con experiencia en desarrollo backend utilizando C#, .NET y Java, enfocada en el diseño e implementación de APIs REST y la gestión de bases de datos SQL. En el frontend, trabajo con HTML, CSS y JavaScript para construir interfaces funcionales que consumen servicios y se integran de manera eficiente con APIs.
 
-Mi experiencia en soporte técnico me ha dado una visión integral de los sistemas, enfocándome en el rendimiento, la estabilidad y la experiencia del usuario. Actualmente sigo fortaleciendo mis habilidades en desarrollo y buenas prácticas de seguridad.
+Mi experiencia en soporte técnico me ha permitido desarrollar una visión integral de los sistemas, con énfasis en el rendimiento, la estabilidad y la experiencia del usuario. Actualmente, continúo fortaleciendo mis habilidades en desarrollo de software y en la adopción de buenas prácticas de seguridad.
 
-💻 Tech Stack: C#, .NET, SQL, HTML, CSS, JavaScript  
-🔐 Interests: Secure development, backend architecture, APIs  
-📚 Currently learning: Advanced .NET and secure authentication
+💻 Tecnologías: C#, .NET, Java, SQL, HTML, CSS, JavaScript
+🔐 Intereses: Desarrollo seguro, arquitectura backend, diseño de APIs
+📚 Actualmente aprendiendo: Phyton avanzado
 
     
   </tr>
