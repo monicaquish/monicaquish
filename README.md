@@ -24,7 +24,7 @@ Hola, soy Ingeniera en Software y Redes especializada en desarrollo Full Stack.
 
 Cuento con experiencia en desarrollo backend utilizando C#, .NET y Java, enfocada en el diseño e implementación de APIs REST y la gestión de bases de datos SQL. En el frontend, trabajo con HTML, CSS y JavaScript para construir interfaces funcionales que consumen servicios y se integran de manera eficiente con APIs.
 
-Mi experiencia en soporte técnico me ha permitido desarrollar una visión integral de los sistemas, con énfasis en el rendimiento, la estabilidad y la experiencia del usuario. Actualmente, continúo fortaleciendo mis habilidades en desarrollo de software y en la adopción de buenas prácticas de seguridad.
+Además, mi experiencia en soporte técnico me ha permitido desarrollar una visión integral de los sistemas, con énfasis en el rendimiento, la estabilidad y la experiencia del usuario. Actualmente, continúo fortaleciendo mis habilidades en desarrollo de software y en la adopción de buenas prácticas de seguridad.
 
 💻 Tecnologías: C#, .NET, Java, SQL, HTML, CSS, JavaScript
 
