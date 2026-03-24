@@ -27,7 +27,9 @@ Cuento con experiencia en desarrollo backend utilizando C#, .NET y Java, enfocad
 Mi experiencia en soporte técnico me ha permitido desarrollar una visión integral de los sistemas, con énfasis en el rendimiento, la estabilidad y la experiencia del usuario. Actualmente, continúo fortaleciendo mis habilidades en desarrollo de software y en la adopción de buenas prácticas de seguridad.
 
 💻 Tecnologías: C#, .NET, Java, SQL, HTML, CSS, JavaScript
+
 🔐 Intereses: Desarrollo seguro, arquitectura backend, diseño de APIs
+
 📚 Actualmente aprendiendo: Phyton avanzado
 
     
